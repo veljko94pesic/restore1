@@ -1,0 +1,1 @@
+{{wp-content}}/uploads/et_temp

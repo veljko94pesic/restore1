@@ -1,0 +1,15 @@
+et_divi_ab_testing_stat:
+  table: et_divi_ab_testing_stats
+  id: id
+  references:
+    test_id: post
+
+postmeta:
+  ignored-entities:
+  - 'meta_key: et_enqueued_post_fonts'
+
+option:
+  ignored-entities:
+    - 'option_name: et_images_temp_folder'
+    - 'option_name: et_schedule_clean_images_last_time'
+    - 'option_name: _et_core_portability_temp_files'

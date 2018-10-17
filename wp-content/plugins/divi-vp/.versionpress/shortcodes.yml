@@ -1,0 +1,107 @@
+shortcode-locations:
+  post:
+    - post_content
+
+shortcodes:
+  et_pb_section:
+    global_module: post
+  et_pb_row:
+    global_module: post
+  et_pb_column:
+    global_module: post
+  et_pb_accordion:
+    global_module: post
+  et_pb_audio:
+    global_module: post
+  et_pb_counters:
+    global_module: post
+  et_pb_blog:
+    include_categories: term
+    global_module: post
+  et_pb_blurb:
+    global_module: post
+  et_pb_button:
+    global_module: post
+  et_pb_circle_counter:
+    global_module: post
+  et_pb_code:
+    global_module: post
+  et_pb_comments:
+    global_module: post
+  et_pb_contact_form:
+    global_module: post
+  et_pb_countdown_timer:
+    global_module: post
+  et_pb_cta:
+    global_module: post
+  et_pb_divider:
+    global_module: post
+  et_pb_filterable_portfolio:
+    global_module: post
+  et_pb_fullwidth_code:
+    global_module: post
+  et_pb_fullwidth_header:
+    global_module: post
+  et_pb_fullwidth_image:
+    global_module: post
+  et_pb_fullwidth_map:
+    global_module: post
+  et_pb_fullwidth_menu:
+    global_module: post
+  et_pb_fullwidth_portfolio:
+    global_module: post
+  et_pb_fullwidth_post_slider:
+    global_module: post
+  et_pb_fullwidth_post_title:
+    global_module: post
+  et_pb_fullwidth_slider:
+    global_module: post
+  et_pb_gallery:
+    global_module: post
+    gallery_ids: post
+  et_pb_image:
+    global_module: post
+  et_pb_login:
+    global_module: post
+  et_pb_map:
+    global_module: post
+  et_pb_number_counter:
+    global_module: post
+  et_pb_portfolio:
+    global_module: post
+  et_pb_post_slider:
+    global_module: post
+  et_pb_post_nav:
+    global_module: post
+  et_pb_post_title:
+    global_module: post
+  et_pb_pricing_tables:
+    global_module: post
+  et_pb_search:
+    global_module: post
+  et_pb_shop:
+    global_module: post
+  et_pb_sidebar:
+    global_module: post
+  et_pb_signup:
+    global_module: post
+  et_pb_slider:
+    global_module: post
+  et_pb_social_media_follow:
+    global_module: post
+  et_pb_tabs:
+    global_module: post
+  et_pb_team_member:
+    global_module: post
+  et_pb_testimonial:
+    global_module: post
+  et_pb_text:
+    global_module: post
+  et_pb_toggle:
+    global_module: post
+  et_pb_video:
+    global_module: post
+  et_pb_video_slider:
+    global_module: post
+  et_pb_split_track:
+    id: post
