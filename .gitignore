@@ -52,3 +52,7 @@ ehthumbs.db
 .idea/
 .vscode/
 # END versionpress
+
+# BEGIN divi-vp
+/wp-content/uploads/et_temp
+# END divi-vp
